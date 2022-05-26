@@ -6,4 +6,4 @@ Is a web based app that provides students with a platform to compare, select and
 This will help to promote great understanding to students on what fields to major. As a result narrowing down the number of students that fail to graduate due to poor selection of courses or failing to meet the tuition fees in due time.
 
 # Colleges & Universities
-With a prospect of promoting Collages and Universities to obtain a substantial number of students per take availabel courses.
+In this prospect, we promote Collages and Universities to obtain a substantial number of students per take available courses.
